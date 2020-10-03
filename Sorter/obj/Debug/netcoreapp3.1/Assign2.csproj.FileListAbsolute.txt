@@ -1,0 +1,13 @@
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\bin\Debug\netcoreapp3.1\Assign2.exe
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\bin\Debug\netcoreapp3.1\Assign2.deps.json
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\bin\Debug\netcoreapp3.1\Assign2.runtimeconfig.json
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\bin\Debug\netcoreapp3.1\Assign2.runtimeconfig.dev.json
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\bin\Debug\netcoreapp3.1\Assign2.dll
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\bin\Debug\netcoreapp3.1\Assign2.pdb
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\obj\Debug\netcoreapp3.1\Assign2.csprojAssemblyReference.cache
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\obj\Debug\netcoreapp3.1\Assign2.AssemblyInfoInputs.cache
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\obj\Debug\netcoreapp3.1\Assign2.AssemblyInfo.cs
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\obj\Debug\netcoreapp3.1\Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\obj\Debug\netcoreapp3.1\Assign2.dll
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\obj\Debug\netcoreapp3.1\Assign2.pdb
+C:\Users\Patrick\OneDrive - Swinburne University\2020 Software Testing and Reliability\Assignment 2\Sorter\obj\Debug\netcoreapp3.1\Assign2.genruntimeconfig.cache
